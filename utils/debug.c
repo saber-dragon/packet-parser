@@ -23,8 +23,8 @@
 
 
 
-#include "libxorp/xorp.h"
-#include "libxorp/debug.h"
+#include "xorp.h"
+#include "debug.h"
 
 
 static uint32_t dbg_indent = 0;

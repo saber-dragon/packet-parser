@@ -24,7 +24,7 @@
 #ifndef __LIBXORP_C_FORMAT_HH__
 #define __LIBXORP_C_FORMAT_HH__
 
-#include "libxorp/xorp.h"
+#include "xorp.h"
 
 
 //

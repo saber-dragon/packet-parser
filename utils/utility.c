@@ -30,7 +30,7 @@
 
 #include "libxorp_module.h"
 
-#include "libxorp/xorp.h"
+#include "xorp.h"
 
 #include <ctype.h>
 

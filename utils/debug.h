@@ -24,7 +24,7 @@
 #ifndef __LIBXORP_DEBUG_H__
 #define __LIBXORP_DEBUG_H__
 
-#include "libxorp/xorp.h"
+#include "xorp.h"
 
 
 #ifdef __cplusplus

@@ -36,7 +36,7 @@ using namespace std;
 
 #include <stdarg.h>
 
-#include "libxorp/c_format.hh"
+#include "c_format.hh"
 
 /**
  * Macro to known insert values into exception arguments.

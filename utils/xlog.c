@@ -29,7 +29,7 @@
 
 #include "libxorp_module.h"
 
-#include "libxorp/xorp.h"
+#include "xorp.h"
 
 #ifdef HAVE_FCNTL_H
 #include <fcntl.h>

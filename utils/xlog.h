@@ -25,7 +25,7 @@
 #ifndef __LIBXORP_XLOG_H__
 #define __LIBXORP_XLOG_H__
 
-#include "libxorp/xorp.h"
+#include "xorp.h"
 
 
 // TODO:  Make this configurable in scons

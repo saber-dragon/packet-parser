@@ -21,8 +21,8 @@
 
 
 #include "libxorp_module.h"
-#include "libxorp/xorp.h"
-#include "libxorp/xlog.h"
+#include "xorp.h"
+#include "xlog.h"
 
 
 
