@@ -24,7 +24,7 @@
 #ifndef __LIBXORP_XORP_H__
 #define __LIBXORP_XORP_H__
 
-//#include "xorp_config.h"
+#include "xorp_config.h"
 
 #if __GNUC__ < 6
 #define unique_ptr auto_ptr
